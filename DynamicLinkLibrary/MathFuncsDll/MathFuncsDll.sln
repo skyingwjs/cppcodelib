@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathFuncsDll", "MathFuncsDll\MathFuncsDll.vcxproj", "{967B9361-190C-4721-BAB2-956D822A4258}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyExecRefsDll", "MyExecRefsDll\MyExecRefsDll.vcxproj", "{2988670B-4CF5-4C3D-AECE-B5002EA56448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{967B9361-190C-4721-BAB2-956D822A4258}.Debug|Win32.ActiveCfg = Debug|Win32
+		{967B9361-190C-4721-BAB2-956D822A4258}.Debug|Win32.Build.0 = Debug|Win32
+		{967B9361-190C-4721-BAB2-956D822A4258}.Release|Win32.ActiveCfg = Release|Win32
+		{967B9361-190C-4721-BAB2-956D822A4258}.Release|Win32.Build.0 = Release|Win32
+		{2988670B-4CF5-4C3D-AECE-B5002EA56448}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2988670B-4CF5-4C3D-AECE-B5002EA56448}.Debug|Win32.Build.0 = Debug|Win32
+		{2988670B-4CF5-4C3D-AECE-B5002EA56448}.Release|Win32.ActiveCfg = Release|Win32
+		{2988670B-4CF5-4C3D-AECE-B5002EA56448}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

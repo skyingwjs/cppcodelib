@@ -1,0 +1,26 @@
+﻿生成启动时间为 2017/4/23 16:35:08。
+     1>项目“C:\Users\WangJinShan\Desktop\VLDTest\VLDTest\VLDTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\VLDTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\VLDTest.exe.embed.manifest.res" Debug\VLDTest_manifest.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WangJinShan\Desktop\VLDTest\Debug\VLDTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\VLDTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\WangJinShan\Desktop\VLDTest\Debug\VLDTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WangJinShan\Desktop\VLDTest\Debug\VLDTest.lib" /MACHINE:X86 Debug\VLDTest.exe.embed.manifest.res
+         Debug\vldtest.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\VLDTest.exe.embed.manifest" /manifest Debug\VLDTest.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\VLDTest.exe.embed.manifest.res" Debug\VLDTest_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WangJinShan\Desktop\VLDTest\Debug\VLDTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\VLDTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\WangJinShan\Desktop\VLDTest\Debug\VLDTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WangJinShan\Desktop\VLDTest\Debug\VLDTest.lib" /MACHINE:X86 Debug\VLDTest.exe.embed.manifest.res
+         Debug\vldtest.obj
+         VLDTest.vcxproj -> C:\Users\WangJinShan\Desktop\VLDTest\Debug\VLDTest.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\VLDTest.unsuccessfulbuild”。
+         正在对“Debug\VLDTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\WangJinShan\Desktop\VLDTest\VLDTest\VLDTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.08

@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/3/15 9:50:38。
+     1>项目“F:\编程\Offer\Offer\Offer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Offer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt offer.cpp
+         offer.cpp
+     1>f:\编程\offer\offer\offer.cpp(144): error C2512: “ListNode”: 没有合适的默认构造函数可用
+     1>f:\编程\offer\offer\offer.cpp(496): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\编程\offer\offer\offer.cpp(502): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\编程\offer\offer\offer.cpp(526): warning C4018: “<=”: 有符号/无符号不匹配
+     1>f:\编程\offer\offer\offer.cpp(576): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\编程\offer\offer\offer.cpp(1102): error C2561: “treeDepth”: 函数必须返回值
+                 f:\编程\offer\offer\offer.cpp(1100) : 参见“treeDepth”的声明
+     1>f:\编程\offer\offer\offer.cpp(1445): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>f:\编程\offer\offer\offer.cpp(1739): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>f:\编程\offer\offer\offer.cpp(1804): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\编程\offer\offer\offer.cpp(1809): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\编程\offer\offer\offer.cpp(1852): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>已完成生成项目“F:\编程\Offer\Offer\Offer.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.86

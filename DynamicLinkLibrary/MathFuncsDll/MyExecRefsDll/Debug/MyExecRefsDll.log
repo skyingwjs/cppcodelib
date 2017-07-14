@@ -1,0 +1,29 @@
+﻿生成启动时间为 2016/5/5 21:23:49。
+     1>项目“F:\编程\VS2010\MathFuncsDll\MyExecRefsDll\MyExecRefsDll.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\MyExecRefsDll.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IF:\VS2010\MathFuncsDll\MathFuncsDll /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyExecRefsDll.cpp
+         MyExecRefsDll.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MyExecRefsDll.exe.embed.manifest.res" Debug\MyExecRefsDll_manifest.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\编程\VS2010\MathFuncsDll\Debug\MyExecRefsDll.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MyExecRefsDll.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\编程\VS2010\MathFuncsDll\Debug\MyExecRefsDll.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\编程\VS2010\MathFuncsDll\Debug\MyExecRefsDll.lib" /MACHINE:X86 Debug\MyExecRefsDll.exe.embed.manifest.res
+         Debug\MyExecRefsDll.obj
+         "F:\编程\VS2010\MathFuncsDll\Debug\MathFuncsDll.lib"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MyExecRefsDll.exe.embed.manifest" /manifest Debug\MyExecRefsDll.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MyExecRefsDll.exe.embed.manifest.res" Debug\MyExecRefsDll_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\编程\VS2010\MathFuncsDll\Debug\MyExecRefsDll.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MyExecRefsDll.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\编程\VS2010\MathFuncsDll\Debug\MyExecRefsDll.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\编程\VS2010\MathFuncsDll\Debug\MyExecRefsDll.lib" /MACHINE:X86 Debug\MyExecRefsDll.exe.embed.manifest.res
+         Debug\MyExecRefsDll.obj
+         "F:\编程\VS2010\MathFuncsDll\Debug\MathFuncsDll.lib"
+         MyExecRefsDll.vcxproj -> F:\编程\VS2010\MathFuncsDll\Debug\MyExecRefsDll.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MyExecRefsDll.unsuccessfulbuild”。
+         正在对“Debug\MyExecRefsDll.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\编程\VS2010\MathFuncsDll\MyExecRefsDll\MyExecRefsDll.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.25

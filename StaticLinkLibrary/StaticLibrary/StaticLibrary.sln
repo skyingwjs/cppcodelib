@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticLibrary", "StaticLibrary\StaticLibrary.vcxproj", "{8D39361B-39C0-4DC2-9D79-89B392615685}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibCall", "LibCall\LibCall.vcxproj", "{35F0E924-38B8-4CF0-A47C-047F31C67AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D39361B-39C0-4DC2-9D79-89B392615685}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D39361B-39C0-4DC2-9D79-89B392615685}.Debug|Win32.Build.0 = Debug|Win32
+		{8D39361B-39C0-4DC2-9D79-89B392615685}.Release|Win32.ActiveCfg = Release|Win32
+		{8D39361B-39C0-4DC2-9D79-89B392615685}.Release|Win32.Build.0 = Release|Win32
+		{35F0E924-38B8-4CF0-A47C-047F31C67AEA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35F0E924-38B8-4CF0-A47C-047F31C67AEA}.Debug|Win32.Build.0 = Debug|Win32
+		{35F0E924-38B8-4CF0-A47C-047F31C67AEA}.Release|Win32.ActiveCfg = Release|Win32
+		{35F0E924-38B8-4CF0-A47C-047F31C67AEA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
